@@ -1,3 +1,11 @@
+--------------------------------
+--CASE STUDY #1: DANNY'S DINER--
+--------------------------------
+
+--Author: Cirak Belai
+--Date: 11/15/2022
+--Tool used: Microsoft SQL Server
+
 ## 1. What is the total amount each customer spent at the restaurant?
 
 SELECT customer_id, SUM(price)
