@@ -4,7 +4,7 @@
 
 --Author: Cirak Belai
 --Date: 11/15/2022
---Tool used: Microsoft SQL Server
+--Tool used: Microsoft SQL Server (MySQL Workbench)
 
 ## 1. What is the total amount each customer spent at the restaurant?
 
