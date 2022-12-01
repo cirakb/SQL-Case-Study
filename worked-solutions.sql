@@ -2,7 +2,7 @@
 
 -- CIRAK BELAI
 -- 11/15/2022
--- MS SQL Server (MYSQL SERVER WORKBENCH)
+-- MS SQL Server (MYSQL WORKBENCH)
 
 CREATE SCHEMA dannys_diner;
 SET search_path = dannys_diner;
